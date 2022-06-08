@@ -1,0 +1,13 @@
+{
+    "main": "index.js",
+    "version": "1.0.0",
+    "name": "FRCat's Theme",
+    "description": "An ever changing theme aka the css file I use for my discord",
+    "tags": [
+        "theme",
+        "UI"
+    ],
+    "authors": [
+        "811770910624579584"
+    ]
+}
